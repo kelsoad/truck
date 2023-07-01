@@ -61,7 +61,6 @@ h3 {
     font-weight: bold;
 }
 .btn {
-    /* display: flex; */
     text-align: center;
     font-family: 'Montserrat', Verdana, sans-serif;
     background: var(--color-button);
@@ -78,23 +77,14 @@ h3 {
 }
 .btn_head {
     padding: 15px 50px;
-    /* margin-bottom: 100px; */
     font-size: 2.2rem;
     font-weight: 400;
-    /* margin: 20px 0; */
-    /* margin: 0 auto; */
-    /* display: block; */
 }
 .btn_order {
     padding: 10px 25px;
     font-size: 1.6rem;
     font-weight: 500;
 }
-/* .btn_cool {
-    padding: 10px 25px;
-    font-size: 1.8rem;
-    font-weight: 500;
-} */
 .wrapper {
     max-width: 1140px;
     padding: 0 20px;
@@ -122,7 +112,6 @@ h3 {
 }
 .promo__content {
     text-align: center;
-    /* margin-bottom: 30px; */
 }
 .btn-margin {
     margin: 30px 0;
@@ -301,9 +290,7 @@ h3 {
 }
 .edge__text {
     display: flex;
-    /* flex-direction: column; */
     justify-content: center;
-    /* align-items: center; */
 }
 .edge p {
     text-align: center;
