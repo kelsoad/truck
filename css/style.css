@@ -428,3 +428,17 @@ footer {
         font-size: 1.6rem;
     }
 }
+
+/*error*/
+
+.error {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40%;
+}
+.error h3 {
+    margin-bottom: 30px;
+}
