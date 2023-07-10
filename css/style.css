@@ -382,9 +382,20 @@ h3 {
     from {opacity: .4}
     to {opacity: 1}
 }
+@media (max-width: 740px) {
+    .prev, .next {
+        top: 40%;
+        padding: 10px;
+        color: var(--color-two);
+        font-size: 3.5rem;
+        background-color:  #11ffee00;
+    }
+}
 @media only screen and (max-width: 300px) {
     .prev, .next,.text {font-size: 11px}
 }
+
+
 
 /*footer*/
 
